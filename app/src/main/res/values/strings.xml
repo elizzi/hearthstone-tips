@@ -1,0 +1,28 @@
+<resources>
+    <!-- Titolo dell'applicazione -->
+    <string name="app_name">Hearthstone Tips</string>
+
+    <!-- Testo dell'introduzione -->
+    <string name="introduction">Benvenuto nella Locanda, viandante! \nQuesta applicazione ti mostrerà cinque semplici ma utili consigli per migliorare la tua esperienza con Hearthstone: Heroes of Warcraft. \nPremi uno dei consigli! </string>
+
+    <!-- Testo del consiglio 1 -->
+    <string name="tip_1"><b>1. Sii paziente</b> \nPreso dall’euforia, potresti pensare che la tua collezione di carte possa già arricchirsi nel primo giorno di gioco, ma così non è. La pazienza è ciò di cui tutti i nuovi giocatori hanno bisogno. Non è possibile iniziare a giocare come fanno i pro della situazione, devi capire che si vince e si perde. Hearthstone non è poi così differente dagli altri giochi da tavolo, quindi sappi che, col tempo, tutte le partite perse ti porteranno ad essere un giocatore migliore.</string>
+
+    <!-- Testo del consiglio 2 -->
+    <string name="tip_2"><b>2.	Utilizza il tuo oro saggiamente</b> \nÈ scontato che tu voglia subito spendere tutto il tuo oro in pacchetti. Molti esperti e veterani dicono che questa non è la giusta strada da percorrere. Non importa quanto tu sia scarso nell’Arena (e fidati, lo sono anche io), continua a preferirla ai pacchetti, è il miglior modo per ottenere questi ultimi e l’oro.</string>
+
+    <!-- Testo del consiglio 2 -->
+    <string name="tip_3"><b>3.	Le Missioni giornaliere sono la giusta via per accumulare oro</b> \nLe Missioni giornaliere sono tue amiche, il miglior modo per aggiungere di volta in volta un po’ di oro ai tuoi risparmi. Ti aiuteranno ad accumulare denaro per entrare nell’Arena e a renderti un migliore giocatore. \nPiccolo consiglio: la Rissa, quando è aperta, è il miglior modo per portare a termine le Missioni. Questo perché, in questa modalità, ti vengono forniti mazzi precostruiti che sono più efficaci del mazzo del giocatore novizio medio.</string>
+
+    <!-- Testo del consiglio 4 -->
+    <string name="tip_4"><b>4.	Guarda gli streamers giocare</b> \nAssistere alle partite di giocatori esperti è un ottimo modo per imparare a giocare, perché sono soliti commentare ogni mossa che fanno. Possono anche spiegare cosa non è giusto fare in una determinata situazione. Ricorda che sono gli errori che commettiamo a renderci migliori, se impariamo da essi. Per guardare le partite dei migliori giocatori del mondo, visita Twitch.tv.</string>
+
+    <!-- Testo del consiglio 5 -->
+    <string name="tip_5"><b>5.	Divertiti e non arrenderti</b> \nHearthstone è sempre un gioco e dovresti semplicemente divertiti a giocarlo. Non prenderlo troppo seriamente e non passarci troppo tempo sopra (anche se sono il primo a farlo). Esulta per le vittorie e non scoraggiarti per le perdite. \nNon smettere di giocarci solo perché nei primi tempi perdi spesso. Può essere frustrante, ma ricorda, vincere non è tutto. Devi solo sapere che più ci giochi, più migliorerai. Le carte arriveranno comunque.</string>
+
+    <!-- Oggetto della email -->
+    <string name="email_subject">Hearthstone Tips Feedback</string>
+
+    <!-- Indirizzo email dello sviluppatore -->
+    <string name="addressee">remanuele94@gmail.com</string>
+</resources>
